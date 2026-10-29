@@ -52,7 +52,3 @@ This project is a simulation-based engineering lab. Feature support and behavior
 ## Author
 
 Feyisa Girma
-
-## Status
-
-In development — implementation and validation results will be updated as each phase is completed.
