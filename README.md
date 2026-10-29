@@ -19,7 +19,7 @@ Project TITAN is an enterprise campus networking lab designed and implemented in
 
 ## Architecture
 
-![Topology Architecture](image.png)
+![Topology Architecture](topology/image.png)
 
 - Core/WAN routing layer
 - Redundant Layer 3 distribution switches
